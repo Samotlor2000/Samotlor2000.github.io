@@ -1,0 +1,42 @@
+p
+{
+    text-indent:20px;
+    font-family: georgia;
+}
+
+h2
+{
+    font-family: sans-serif, arial;
+    font-size: 22px;
+}
+
+span
+{
+    margin-left:5px;
+    line-height: 30px;
+    color:#504A4B;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+p1
+{
+    font-family: serif;
+    color: #FCDFFF;
+    text-decoration: underline;
+    text-decoration-color: #FCDFFF;
+}
+
+ss2
+{
+    margin-left:5px;
+    line-height: 15px;
+    color:#504A4B;
+    font-size: 20px; 
+}
+
+h3
+{
+    font-family: sans-serif, arial;
+    font-size: 20px;
+}
